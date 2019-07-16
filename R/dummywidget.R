@@ -1,7 +1,11 @@
-#' <Add Title>
+#' Joining Animation
 #'
-#' <Add Description>
-#'
+#' @param col Color of rectangle.
+#' @description
+#' @examples
+#' dummywidget(col = "red")
+#' dummywidget(col = "blue")
+#' @author Charco Hui
 #' @import htmlwidgets
 #'
 #' @export
